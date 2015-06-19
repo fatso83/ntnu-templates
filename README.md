@@ -6,7 +6,7 @@ I created this repository to hold my own document template for my
 master thesis. It took a lot more effort than I thought was necessary, 
 and Word itself wasn't helping much either. 
 
-The basic master thesis template is based on the official guidelines from 
+The basic master thesis template is based on [the official guidelines](https://innsida.ntnu.no/documents/10157/124399535/Formatting+your+master%27s+thesis+in+Microsoft+Word/03c81406-f69f-4caf-8cbd-cfe3bc9c6300) from 
 NTNU for how to format you master thesis.
 
 ##INSTALL
